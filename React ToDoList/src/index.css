@@ -1,0 +1,79 @@
+.container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+button {
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+}
+
+.add-btn {
+  background-color: #005780;
+}
+
+.add-btn:hover {
+  background-color: #00344d;
+}
+
+.delete-btn {
+  background-color: #800000;
+}
+
+.delete-btn:hover {
+  background-color: #4d0000;
+}
+
+.move-task-btn {
+  background-color: #e0dd00;
+}
+
+.move-task-btn:hover {
+  background-color: #adab00;
+}
+
+input[type="text"] {
+  font-size: 1.6rem;
+  padding: 10px;
+  border: 2px solid #cccccc;
+  border-radius: 5px;
+  color: #000000;
+}
+
+ol {
+  padding: 0;
+}
+
+li {
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 15px;
+  background-color: hsl(0, 0%, 97%);
+  margin-bottom: 10px;
+  border: 2px solid hsl(0, 0%, 80%);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  flex: 1;
+}
+
+.delete-btn,
+.move-task-btn {
+  padding: 8px 12px;
+  font-size: 1.4rem;
+  margin-left: 10px;
+}
