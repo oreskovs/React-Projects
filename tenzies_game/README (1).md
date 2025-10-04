@@ -93,10 +93,4 @@ Then open **http://localhost:5173/** (or the port shown in your terminal) in you
 
 ---
 
-## 📝 License  
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ### 👨‍💻 Created by [oreskov.s](https://github.com/oreskov.s)
