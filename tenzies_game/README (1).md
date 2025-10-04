@@ -84,13 +84,6 @@ Then open **http://localhost:5173/** (or the port shown in your terminal) in you
 
 ---
 
-## 🖼️ Preview  
-
-![Tenzies Game Screenshot](https://github.com/oreskov.s/React-Projects/assets/placeholder-tenzies-game.png)  
-*(You can replace this image link with your actual game screenshot.)*
-
----
-
 ## 🚀 Future Improvements  
 
 - Add a **roll counter**  
